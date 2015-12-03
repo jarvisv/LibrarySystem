@@ -1,0 +1,11 @@
+Z:\projects\Windows\LibrarySystem\LibrarySystem\LibrarySystem\bin\LibrarySystem.dll.config
+Z:\projects\Windows\LibrarySystem\LibrarySystem\LibrarySystem\bin\LibrarySystem.dll
+Z:\projects\Windows\LibrarySystem\LibrarySystem\LibrarySystem\bin\LibrarySystem.pdb
+Z:\projects\Windows\LibrarySystem\LibrarySystem\LibrarySystem\bin\EntityFramework.dll
+Z:\projects\Windows\LibrarySystem\LibrarySystem\LibrarySystem\bin\EntityFramework.SqlServer.dll
+Z:\projects\Windows\LibrarySystem\LibrarySystem\LibrarySystem\bin\EntityFramework.xml
+Z:\projects\Windows\LibrarySystem\LibrarySystem\LibrarySystem\bin\EntityFramework.SqlServer.xml
+Z:\projects\Windows\LibrarySystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Migrations.SeedBooksAndMembers_Candidate1.resources
+Z:\projects\Windows\LibrarySystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.GenerateResource.Cache
+Z:\projects\Windows\LibrarySystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.dll
+Z:\projects\Windows\LibrarySystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
